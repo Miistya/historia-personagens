@@ -32,5 +32,54 @@
         "Carros"
       ]
     }
-  ]
+  ],
+  "Morgan": {
+    "descricao": "Morgan cresceu sem conhecer o pai. Sua mãe, Evelyn, se envolveu com o trabalho sexual por necessidade financeira, mas, com o tempo, conseguiu uma vida mais estável. Morgan começou a ter seu primeiro relacionamento com Yuki. Ela foi demitida de seu emprego e acabou recebendo uma oferta de trabalho na Kitage Corporation, empresa do pai de Yuki, Hiroshi. Ela aceitou a proposta e passou a trabalhar na parte de arte da empresa.",
+    "idade": 18,
+    "aparência": {
+      "descricao": "Branca, de olhos bem azuis e cabelos muito pretos e longos, ocasionalmente amarrados, com franja até os cílios.",
+      "corpo": "Linda e com um corpo atraente, o que a levou a sofrer bullying devido ao passado de sua mãe.",
+      "objetivo": "Quer estudar História da Arte.",
+      "trabalho": "Foi demitida de seu emprego e recebeu uma oferta para trabalhar na Kitage Corporation, onde atua na parte de arte da empresa."
+    }
+  },
+  "Yuki": {
+    "descricao": "Yuki é filho de Hiroshi Kitage, CEO da Kitage Corporation. Ele tem uma relação próxima com a mãe de Morgan, Evelyn, embora tenha pedido que ela não fosse ajudada diretamente por seu pai. Yuki se apaixonou por Morgan e ambos começaram um relacionamento, com Yuki decidindo apoiá-la financeiramente após sua demissão de emprego. Yuki quer estudar Administração para tocar os negócios. Ele tem um carro Mustang V6 de 2010, restaurado e bem cuidado.",
+    "idade": 18,
+    "aparência": {
+      "descricao": "Cabelos prateados curtos e olhos verdes, herdados do pai.",
+      "corpo": "Extrovertido e tem muitos amigos na escola. Corpo magro, mas bem definido, com um abdômen modelado.",
+      "objetivo": "Quer estudar negócios.",
+      "carro": "Tem um carro Mustang V6 de 2010, restaurado e bem cuidado."
+    }
+  },
+  "Hiroshi_Kitage": {
+    "descricao": "Hiroshi Kitage é o CEO e dono da Kitage Corporation, uma grande empresa com várias divisões, como arte, finanças e imóveis. Ele se construiu como um empresário de sucesso, e, ao ajudar Morgan, espera investir no futuro dela.",
+    "aparência": {
+      "descricao": "Pai de Yuki. Descendente de japonês. CEO e dono da Kitage Corporation.",
+      "corpo": "Alto, ombros largos, usa camisas sociais com as mangas dobradas até os cotovelos. Cabelos prateados escuros penteados para trás. Olhos verdes, herdados por Yuki.",
+      "objetivo": "Estratégico e focado no crescimento da empresa. Criou sua empresa do zero, sem herança."
+    }
+  },
+  "Evelyn": {
+    "descricao": "Evelyn, mãe de Morgan, foi uma mulher que passou por dificuldades financeiras, o que a levou ao trabalho sexual. Porém, ela se afastou desse passado e conseguiu um emprego estável. Ela sempre fez o possível para dar uma vida melhor para Morgan, apesar das dificuldades. Apesar disso, ela não recebeu ajuda de Hiroshi Kitage, quando solicitado por Yuki, que prefere investir diretamente em Morgan.",
+    "aparência": {
+      "descricao": "Mãe de Morgan. Tinha um passado de dificuldades financeiras, mas superou e seguiu em frente."
+    }
+  },
+  "Mrs_Nakamura": {
+    "descricao": "Mrs. Nakamura é uma senhora de meia-idade rechonchuda, que trabalha como cozinheira da família Kitage há muitos anos. Ela tem uma culinária japonesa tradicional e é muito querida por Yuki, a quem considera como um sobrinho. Ela é uma figura maternal, carinhosa e sempre tenta agradar Yuki, sendo uma presença constante na casa de Hiroshi.",
+    "aparência": {
+      "descricao": "Figura maternal e carinhosa. Culinária japonesa tradicional."
+    }
+  },
+  "Lisa": {
+    "descricao": "Lisa é a secretária pessoal de Hiroshi Kitage e frequentemente está presente na casa da família. Ela é uma mulher na faixa dos 40 anos, com uma postura elegante e profissional. Tem cabelos longos e vermelhos, que sempre mantém presos em um rabo de cavalo baixo.",
+    "aparência": {
+      "descricao": "Postura elegante e profissional. Cabelos longos e vermelhos."
+    }
+  },
+  "Kitage_Corporation": {
+    "descricao": "A Kitage Corporation é um grande conglomerado fundado por Hiroshi Kitage. A empresa atua em diversas áreas, incluindo: Galeria de arte e leilões internacionais, Setor financeiro, Mercado imobiliário, Investimentos estratégicos em tecnologia, sustentabilidade e mercados emergentes."
+  }
 }
