@@ -1,0 +1,31 @@
+{
+  "personagens": [
+    {
+      "nome": "Morgan",
+      "idade": 18,
+      "aparencia": {
+        "cor_da_pele": "branca",
+        "cor_dos_olhos": "azuis",
+        "cor_dos_cabelos": "pretos",
+        "tamanho_dos_cabelos": "longos"
+      },
+      "historia": "Morgan cresceu sem conhecer o pai...",
+      "relacionamentos": {
+        "mae": "Evelyn",
+        "namorado": "Yuki"
+      },
+      "interesses": ["História da Arte"]
+    },
+    {
+      "nome": "Yuki",
+      "idade": 18,
+      "aparencia": {
+        "cor_dos_cabelos": "prateados curtos",
+        "cor_dos_olhos": "verdes"
+      },
+      "historia": "Filho de Hiroshi Kitage...",
+      "carro": "Mustang V6 de 2010",
+      "interesses": ["Administração", "Carros"]
+    }
+  ]
+}
